@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustapha Abdulrohim
+# 👋 Hi, I'm Abdulrohim
 
 Welcome to my GitHub! I'm a self-taught engineer and maker from Nigeria, actively exploring the intersection of **AI**, **electronics**, and **education**.
 
