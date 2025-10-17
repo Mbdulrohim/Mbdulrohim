@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abdulrohim
 
-Welcome to my GitHub! I'm a self-taught engineer and maker from Nigeria, actively exploring the intersection of **AI**, **electronics**, and **education**.
+Welcome to my GitHub! I'm a self-taught software engineer actively exploring the intersection of **AI**, **electronics**, and **education**.
 
 ---
 
 ## 🚀 What I'm Building
 
-### ⚡ [BuildPCB.ai](https://buildpcbs.com)  
-AI-powered IDE for generating schematics, simulating circuits, and designing intelligent PCBs.  
+### ⚡ [BuildPCBs](https://buildpcbs.com)  
+AI-powered EDA for generating schematics, simulating circuits, and designing intelligent PCBs.  
 **Mission:** Help both beginners and professionals design faster, smarter electronics.
 
 ### 📘 [LearnedBytes](https://learnedbytes.com)  
@@ -20,7 +20,6 @@ Collaborative platform for Nigerian machine learning research, connecting academ
 ## 🛠️ Technologies I Use
 
 - **Frontend:** Next.js, React, TailwindCSS  
-- **Mobile:** Jetpack Compose, SwiftUI  
 - **Backend:** Firebase, Node.js  
 - **Hardware:** Arduino, Raspberry Pi, multimeter, soldering station  
 - **AI & ML:** Python, TensorFlow basics, model training experiments
@@ -40,7 +39,7 @@ Collaborative platform for Nigerian machine learning research, connecting academ
 
 - 🐦 [@Mbdulrohim on X](https://X.com/Mbdulrohim)
 - 💼 [LinkedIn Profile](https://linkedin.com/in/Mbdulrohim)
-- ✉️ Email: mrabdulrohim1@gmail.com
+- ✉️ Email: abdulrohim@buildpcbs.com
 
 ---
 
