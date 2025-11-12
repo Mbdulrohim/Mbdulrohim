@@ -11,7 +11,7 @@ AI-powered EDA for generating schematics, simulating circuits, and designing int
 **Mission:** Help both beginners and professionals design faster, smarter electronics.
 
 ### 📘 [LearnedBytes](https://learnedbytes.com)  
-Collaborative platform for Nigerian machine learning research, connecting academia and industry through peer-reviewed papers, technical articles, and open datasets.
+Collaborative platform for  machine learning research, connecting academia and industry through peer-reviewed papers, technical articles, and open datasets.
 
 
 
